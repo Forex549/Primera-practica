@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="772f4ea9-b6ad-46a1-a95f-756fad6c78af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Segunda practica/.idea/Segunda practica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Segunda practica/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Segunda practica/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Segunda practica/ejercicio 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Segunda practica/ejercicio 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Segunda practica/ejercicio 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primera practica/problema1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primera practica/problema2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problema3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Primera practica/problema3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2cQn2uoIx8VzGhy8EKsXFznVSd3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Practica calificadas",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="772f4ea9-b6ad-46a1-a95f-756fad6c78af" name="Changes" comment="" />
+      <created>1708052465461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708052465461</updated>
+      <workItem from="1708052466540" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
